@@ -1,5 +1,8 @@
 # PoE2-Appraiser
-Yet another price checker tool for Path of Exile 2
+Yet another price checker tool for Path of Exile 2. 
+
+## Description
+This is a side-project for me to develop my knowledge of React.js and learning about creating desktop applications using Tauri, but is available for anyone to use.
 
 ## Disclaimer
 
